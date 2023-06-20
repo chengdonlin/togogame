@@ -467,5 +467,7 @@ function registrationModule(){
   }
 
 
-
+  a{
+    color: red;
+  }
 </style>
