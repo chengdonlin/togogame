@@ -1,0 +1,10 @@
+@media screen and (max-width: 560px) {
+    .table_board {
+        left: 0 !important;
+        transform: none !important;
+    }
+    .game_bottom .menu{
+        position: fixed;
+        top: 80px;
+    }
+}

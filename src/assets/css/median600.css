@@ -1,0 +1,41 @@
+@media screen and (max-width: 600px) {
+    html{
+        font-size: 35px!important;
+    }
+    .dynamic_px{
+        font-size: 18px!important;
+        line-height: 10px;
+    }
+    .svg-inline{
+        transform: scale(1.5);
+        vertical-align: inherit!important;
+        margin-top: 1px;
+    }
+    .mat_hide{
+        display: none!important;
+    }
+    .mat_show{
+        display: block!important;
+    }
+    .container{
+        width: 360px!important;
+    }
+    .container-xs, .container-yz{
+        width: auto!important;
+    }
+    .visitor_login{
+        width: 80%!important;
+
+    }
+    .visitor_login input{
+        width: 80%!important;
+    }
+
+}
+
+@media screen and (max-width: 650px) {
+    .level{
+        display: none!important;
+    }
+
+}

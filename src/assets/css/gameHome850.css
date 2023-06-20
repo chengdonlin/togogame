@@ -1,0 +1,24 @@
+@media screen and (max-width: 850px) {
+    .genre_img{
+        display: none;
+    }
+    .mode_cover{
+        width: auto!important;
+        transform: translateY(0)!important;
+    }
+    .head_info{
+        display: block!important;
+    }
+    .user_grade{
+        margin-left: 0!important;
+    }
+    .use_Options{
+        width: auto!important;
+    }
+    .gameType{
+        margin-bottom: 20px;
+    }
+    .content_cover{
+        width: 100%!important;
+    }
+}
