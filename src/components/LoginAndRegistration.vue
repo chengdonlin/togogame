@@ -466,8 +466,4 @@ function registrationModule(){
     -webkit-appearance: none;
   }
 
-
-  a{
-    color: red;
-  }
 </style>
